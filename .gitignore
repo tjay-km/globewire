@@ -67,3 +67,6 @@ certs/
 
 # Cursor IDE files
 .cursor/
+# Security scan output and local databases
+.scannerwork/
+prisma/dev.db

@@ -1,5 +1,7 @@
 # 🌐 GlobeWire - International Payment Portal
 
+> Group project for APDS7311 at IIE MSA (2025). This repository is the portfolio copy, with environment files and build artefacts removed from the history. Originally developed with Keanu Muller, Kabelo Diutluileng and Kyle James.
+
 ## 👥 Team Information
 
 **APDS7311 - Group 5 - Task 3**
@@ -67,7 +69,7 @@ Open your terminal/command prompt and run:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ST10258945/APDS7312-POE.git
+git clone https://github.com/tjay-km/globewire.git
 cd APDS7312-POE
 
 # 2. Install all required packages (this may take 2-3 minutes)
